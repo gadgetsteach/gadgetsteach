@@ -137,8 +137,7 @@
 <a href="https://stats.hyochan.dev/en/stats/gadgetsteach"><img src="https://stats.hyochan.dev/api/github-stats?login=gadgetsteach" width="600" /></a>
 
 <strong>Stackoverflow stats</strong>
-
-<a href="https://github.com/offoapp/atherstone-admin"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=11674199&theme=swift" alt="stack overflow stat"></a>
+[![Stack Overflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11674199&theme=dark&height=200)](https://stackoverflow.com/users/11674199)
 
 <strong>Holopin badges</strong>
 
