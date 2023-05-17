@@ -25,6 +25,13 @@
 
 <a href="https://stats.hyochan.dev/en/stats/gadgetsteach"><img src="https://stats.hyochan.dev/api/github-stats?login=gadgetsteach" width="600" /></a>
 
+<strong>Stackoverflow stats</strong>
+
+<a href="https://github.com/offoapp/atherstone-admin"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=21915439&theme=swift" alt="stack overflow stat"></a>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://HwangTaehyun.github.io/)](https://HwangTaehyun.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:eeht1717@gmail.com)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
