@@ -42,9 +42,10 @@ Description: An engaging social media app with advanced features like image filt
 ### <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </p>
-
-### Contact
    [![trophy](https://github-profile-trophy.vercel.app/?username=gadgetsteach)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+### Contact
+  
 Let's connect and collaborate on exciting Flutter projects!
   ## GitHub Trophies
 
