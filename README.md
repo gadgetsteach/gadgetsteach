@@ -15,6 +15,9 @@
 5. 💪 Opened PR [#52](https://github.com/offoapp/atherstone-admin/pull/52) in [offoapp/atherstone-admin](https://github.com/offoapp/atherstone-admin)
 <!--END_SECTION:activity-->
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/gadgetsteach?template=classic&base.header=0&gists=1&lines=1)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gadgetsteach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
