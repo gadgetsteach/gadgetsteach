@@ -21,6 +21,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gadgetsteach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/gadgetsteach"><img src="https://stats.hyochan.dev/api/github-stats?login=gadgetsteach" width="600" /></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
