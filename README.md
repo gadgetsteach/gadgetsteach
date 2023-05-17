@@ -39,16 +39,13 @@ Description: An engaging social media app with advanced features like image filt
 - [Contribution 2](link-to-contribution): Description of contribution and its significance.
 - [Contribution 3](link-to-contribution): Description of contribution and its significance.
 
-### <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
-</p>
-   [![trophy](https://github-profile-trophy.vercel.app/?username=gadgetsteach)](https://github.com/ryo-ma/github-profile-trophy)
+
+ ## GitHub Trophies
+  [![trophy](https://github-profile-trophy.vercel.app/?username=gadgetsteach)](https://github.com/ryo-ma/github-profile-trophy)
  
 ### Contact
   
 Let's connect and collaborate on exciting Flutter projects!
-  ## GitHub Trophies
-
 - Email: [your-email@example.com](mailto:your-email@example.com)
 - LinkedIn: [Brijesh Kumar](https://www.linkedin.com/in/your-linkedin-profile)
 - Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
