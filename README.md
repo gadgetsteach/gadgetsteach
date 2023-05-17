@@ -29,6 +29,10 @@
 
 <a href="https://github.com/offoapp/atherstone-admin"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=11674199&theme=swift" alt="stack overflow stat"></a>
 
+<strong>Holopin badges</strong>
+
+[![@gadgetsteach's Holopin board](https://holopin.me/@gadgetsteach)](https://holopin.io/@gadgetsteach)
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.gadgetsteach.com/)](https://www.gadgetsteach.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enggbrijeshkmar@gmail.com)](mailto:enggbrijeshkmar@gmail.com)
 
