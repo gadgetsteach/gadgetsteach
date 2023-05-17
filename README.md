@@ -10,7 +10,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#180950](https://github.com/microsoft/vscode/issues/180950) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. ❗️ Opened issue [#8](https://github.com/iq-eq-us/voicebox/issues/8) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-3. ❌ Closed PR [#30](https://github.com/gadgetsteach/kahoot-answer-bot/pull/30) in [gadgetsteach/kahoot-answer-bot](https://github.com/gadgetsteach/kahoot-answer-bot)
+3. ❌ Closed PR [#30](https://github.com/gadgetsteach/atherstone-admin/pull/51) in [gadgetsteach/atherstone-admin](https://github.com/gadgetsteach/atherstone-admin)
 4. 🗣 Commented on [#30](https://github.com/gadgetsteach/kahoot-answer-bot/issues/30) in [gadgetsteach/kahoot-answer-bot](https://github.com/gadgetsteach/kahoot-answer-bot)
 5. 💪 Opened PR [#4638](https://github.com/adambard/learnxinyminutes-docs/pull/4638) in [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
 <!--END_SECTION:activity-->
