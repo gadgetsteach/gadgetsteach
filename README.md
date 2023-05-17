@@ -46,9 +46,9 @@ Here are the technologies I work with:
 # Repository Name
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/repository-name.svg)](https://github.com/your-username/repository-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/repository-name.svg)](https://github.com/your-username/repository-name/network)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/repository-name.svg)](https://github.com/your-username/repository-name/issues)
+[![GitHub stars](https://img.shields.io/github/stars/gadgetsteach/gadgetsteach.svg)](https://github.com/gadgetsteach/repository-name/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/gadgetsteach/gadgetsteach.svg)](https://github.com/gadgetsteach/repository-name/network)
+[![GitHub issues](https://img.shields.io/github/issues/gadgetsteach/gadgetsteach.svg)](https://github.com/gadgetsteach/repository-name/issues)
 ### Projects
 
 #### Project 1: [Name of Project](link-to-project)
