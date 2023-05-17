@@ -107,10 +107,14 @@
   </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gadgetsteach&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gadgetsteach&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gadgetsteach&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<a href="https://github.com/gadgetsteach/github-contributor-stats">![gadgetsteach's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=gadgetsteach&combine_all_yearly_contributions=true&hide=B,B)</a>
+![stats](https://github-readme-stats.vercel.app/api?username=gadgetsteach&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=gadgetsteach&no-bg=true&no-frame=true&column=4&theme=algolia)
+
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=gadgetsteach&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+
+![streak](https://github-contributor-stats.vercel.app/api?username=gadgetsteach&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![streak](https://streak-stats.demolab.com/?user=gadgetsteach&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+
 
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
