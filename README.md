@@ -2,7 +2,7 @@
 ## Flutter Expert | GitHub Profile
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="Brijesh Kumar" />
+  <img src="https://github.com/gadgetsteach.png" alt="Brijesh Kumar" width="100"  />
 </p>
 
 ### Introduction
@@ -12,7 +12,7 @@ Greetings! I'm Brijesh Kumar, a highly skilled Flutter developer with a focus on
 # Tech Stack
 
 <p align="center">
-  <img src="https://your-logo-url.com" alt="Tech Stack" />
+  <img src="https://github.com/gadgetsteach.png" alt="Brijesh Kumar" width="50"  />
 </p>
 
 Here are the technologies I work with:
